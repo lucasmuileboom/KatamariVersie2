@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/katamari.unity
+  isLoaded: 1
+  isActive: 1
